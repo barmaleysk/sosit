@@ -1,6 +1,6 @@
-token = '686830777:AAFJu_yMYwkCtqQN3Rf70WuXJDrl-AH8eu8'
+token = '658374451:AAGhl6rcfaC8tlTOISWwiHrvLlT4JpILkio'
 
-admin = 286077227
+admin = 600909887
 
 valume = ''
 
